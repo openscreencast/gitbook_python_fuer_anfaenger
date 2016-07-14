@@ -1,3 +1,9 @@
-# My Awesome Book
+# Python für Anfänger
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# Status
+
+in Arbeit
+
+# Lizenz
+
+CC by-sa
