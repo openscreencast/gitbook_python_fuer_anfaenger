@@ -1,0 +1,24 @@
+{
+  "plugins": ["jazer","quiz"],
+  "pluginsConfig": {
+      "jazer": {
+          "editorAutoHeight": "solution"
+      },
+    "quiz": {
+            "labels": {
+                "check"             : "Antwort kontrollieren",
+                "showExplanation"   : "Hinweis", 
+                "showCorrect"       : "korrekte Antwort",   
+                "explanationHeader" : "Hinweis"
+            },
+            "text": {
+                "noChosen"    : "Choose at least one answer",  
+                "incomplete"  : "Some correct answers are missing" 
+            },
+            "buttons": {
+                "showCorrect"       : true, 
+                "showExplanation"   : true 
+            }
+    }
+  }
+}
