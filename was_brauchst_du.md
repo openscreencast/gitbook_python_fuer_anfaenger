@@ -13,12 +13,12 @@ Texteditoren:
 * https://atom.io/
 * http://brackets.io/
 
-## Aufgaben
+### Aufgaben
 
-1. Nenne weitere Texteditoren, die man ebenfalls einsetzen können.
-2. Sind die Programme LibreOffice Writer und MS Office Word für Python-Programmierung geeignet ? Erläutere warum ja oder nein.
+1. Nenne weitere Texteditoren, die man ebenfalls einsetzen könnte.
+2. Sind die Programme LibreOffice Writer und MS Office Word für Python-Programmierung (Quelltext) geeignet ? Erläutere warum ja oder nein.
 
-## Quiz
+### Quiz
 
 <quiz name="">
     <question>
