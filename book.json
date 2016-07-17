@@ -1,7 +1,6 @@
 {
-  "plugins": ["jazer","quiz","code-editor","ace","pyweb"],
+  "plugins": ["jazer","quiz","ace","fbqx"],
   "pluginsConfig": {
-      "brythonPath" : "http://brython-comquas.rhcloud.com/brython.js",
       "jazer": {
           "editorAutoHeight": "solution"
       },

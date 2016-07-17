@@ -2,15 +2,18 @@
 
 <iframe src="https://player.vimeo.com/video/136621885?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Hallo Welt
+### Quiz
 
-[[[hallowelt.py]]]
+{%fbq%}Tippe $$python## in dein Terminal ein und drücke ENTER um die interaktive Python Konsole zu starten.{%endfbq%}
 
-{%ace edit=true, lang='python'%}
-print("Hallo Welt")
-{%endace%}
+{%fbq%}Gebe den Befehl $$print##("Hallo Welt") in die interaktive Python Konsole ein um die Ausgabe "Hallo Welt" zu erzeugen.{%endfbq%}
 
-{% codeeditor src='hallowelt.py', language='python', readOnly='true', theme='github' %}
-{% endcodeeditor %}
-
-
+<quiz name="">
+    <question>
+        <p>Mit welcher Eingabe kann man die interaktive Python Konsole verlassen ?</p>
+        <answer>ende</answer>
+        <answer>end()</answer>
+        <answer>exit</answer>
+        <answer correct>exit()</answer>
+    </question>
+</quiz>
