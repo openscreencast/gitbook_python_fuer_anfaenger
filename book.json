@@ -1,7 +1,6 @@
 {
-  "plugins": ["jazer","quiz","pyweb"],
+  "plugins": ["jazer","quiz","ace","pyweb"],
   "pluginsConfig": {
-      "brythonPath": "https://raw.githubusercontent.com/saturngod/gitbook-plugin-pyweb/master/book/js/brython.js",
       "jazer": {
           "editorAutoHeight": "solution"
       },
