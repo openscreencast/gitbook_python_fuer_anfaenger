@@ -10,7 +10,7 @@ Hallo Welt
 print("Hallo Welt")
 {%endace%}
 
-{% codeeditor src='hallowelt.py' %}
+{% codeeditor src='hallowelt.py', language='python', readOnly='true', theme='github' %}
 {% endcodeeditor %}
 
 
