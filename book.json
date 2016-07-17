@@ -1,5 +1,5 @@
 {
-  "plugins": ["jazer","quiz","pywebtest-gitbook"],
+  "plugins": ["jazer","quiz","pyweb"],
   "pluginsConfig": {
       "brythonPath": "http://brython-comquas.rhcloud.com/brython.js",
       "jazer": {
