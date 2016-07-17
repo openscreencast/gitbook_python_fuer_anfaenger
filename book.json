@@ -1,5 +1,5 @@
 {
-  "plugins": ["jazer","quiz","code-editor","pyweb"],
+  "plugins": ["jazer","quiz","code-editor","ace","pyweb"],
   "pluginsConfig": {
       "jazer": {
           "editorAutoHeight": "solution"
