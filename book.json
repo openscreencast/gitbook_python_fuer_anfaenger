@@ -1,6 +1,7 @@
 {
-  "plugins": ["jazer","quiz"],
+  "plugins": ["jazer","quiz","pywebtest-gitbook"],
   "pluginsConfig": {
+      "brythonPath": "http://brython-comquas.rhcloud.com/brython.js",
       "jazer": {
           "editorAutoHeight": "solution"
       },
