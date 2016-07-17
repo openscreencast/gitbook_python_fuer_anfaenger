@@ -4,7 +4,7 @@
 
 Hallo Welt
 
-[[[hallowelt.py]]]
+[[hallowelt.py]]
 
 {%ace edit=true, lang='python'%}
 print("Hallo Welt")
