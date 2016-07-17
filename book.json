@@ -1,5 +1,5 @@
 {
-  "plugins": ["jazer","quiz","pywebtest-gitbook"],
+  "plugins": ["jazer","quiz","pyweb"],
   "pluginsConfig": {
       "brythonPath": "https://raw.githubusercontent.com/saturngod/gitbook-plugin-pyweb/master/book/js/brython.js",
       "jazer": {
