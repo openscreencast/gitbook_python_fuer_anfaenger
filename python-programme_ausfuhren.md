@@ -5,11 +5,9 @@
 ### Aufgaben
 
 1. Erstelle die Datei hallo.py mit folgendem Inhalt:
-
 {%ace edit=true, lang='python'%}
 print("Hallo Welt")
 {%endace%}
-
 2. Führe die Pythondatei aus.
 3. Verändere den Inhalt der Datei hallo.py so, dass beim Ausführen die Ausgabe `Hi, Python !` erscheint.
 
