@@ -6,4 +6,5 @@
 * [Mit Python interagieren](mit_python_interagieren.md)
 * [Python-Programme ausführen](python-programme_ausfuhren.md)
 * [Einfaches Zeichnen mit turtle](einfaches_zeichnen_mit_turtle.md)
+* [Ein Rechteck zeichnen](ein_rechteck_zeichnen.md)
 
