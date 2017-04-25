@@ -4,14 +4,14 @@
 
 Texteditoren:
 
-* http://www.sublimetext.com/
-* http://www.geany.org/
-* http://macromates.com/
-* https://projects.gnome.org/gedit/
-* http://kate-editor.org/
-* http://www.activestate.com/komodo-edit
-* https://atom.io/
-* http://brackets.io/
+* [Sublime Text](http://www.sublimetext.com/)
+* [Geany](http://www.geany.org/)
+* [Macromates](http://macromates.com/)
+* [gedit](https://projects.gnome.org/gedit/)
+* [Kate-Editor](http://kate-editor.org/)
+* [Kodomo-Edit](http://www.activestate.com/komodo-edit)
+* [Atom](https://atom.io/)
+* [Brackets](http://brackets.io/)
 
 ### Aufgaben
 

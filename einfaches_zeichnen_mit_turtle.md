@@ -2,6 +2,10 @@
 
 <iframe src="https://player.vimeo.com/video/140204552?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+### Links
+
+* [Python - Turtle](https://docs.python.org/3.6/library/turtle.html)
+
 ### Aufgaben
 
 1. Erstelle ein Pythonprogramm und importiere das Modul turtle. Verwandle alle folgenden Anweisungen in Pythonbefehle und schreibe sie in dein Pythonprogramm.

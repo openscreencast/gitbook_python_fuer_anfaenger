@@ -2,16 +2,11 @@
 
 <iframe src="https://player.vimeo.com/video/135802843?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Texteditoren:
+### Links
 
-* http://www.sublimetext.com/
-* http://www.geany.org/
-* http://macromates.com/
-* https://projects.gnome.org/gedit/
-* http://kate-editor.org/
-* http://www.activestate.com/komodo-edit
-* https://atom.io/
-* http://brackets.io/
+* [Python](https://learnxinyminutes.com/docs/de-de/python-de/)
+* [Python unter Linux](https://de.wikibooks.org/wiki/Python_unter_Linux)
+* [Python](https://py-tutorial-de.readthedocs.io/de/python-3.3/index.html)
 
 ### Aufgaben
 
