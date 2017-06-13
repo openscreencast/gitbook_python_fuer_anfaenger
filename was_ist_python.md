@@ -8,11 +8,6 @@
 * [Python unter Linux](https://de.wikibooks.org/wiki/Python_unter_Linux)
 * [Python](https://py-tutorial-de.readthedocs.io/de/python-3.3/index.html)
 
-### Aufgaben
-
-1. Nenne weitere Programmiersprachen, die du kennst.
-2. Ist Python eine Compiler-Programmiersprache oder eine Skript-Programmiersprache ? Erläutere den Unterschied zwischen einer Compiler-Programmiersprache und einer Skript-Programmiersprache.
-
 ### Quiz
 
 <quiz name="">

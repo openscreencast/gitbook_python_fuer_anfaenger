@@ -2,7 +2,7 @@
 
 <iframe src="https://player.vimeo.com/video/134985749?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Texteditoren:
+### Links
 
 * [Sublime Text](http://www.sublimetext.com/)
 * [Geany](http://www.geany.org/)
@@ -12,11 +12,6 @@ Texteditoren:
 * [Kodomo-Edit](http://www.activestate.com/komodo-edit)
 * [Atom](https://atom.io/)
 * [Brackets](http://brackets.io/)
-
-### Aufgaben
-
-1. Nenne weitere Texteditoren, die man ebenfalls einsetzen könnte.
-2. Sind die Programme LibreOffice Writer und MS Office Word für Python-Programmierung (Quelltext) geeignet ? Erläutere warum ja oder nein.
 
 ### Quiz
 

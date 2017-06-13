@@ -6,15 +6,6 @@
 
 * [Python - Turtle](https://docs.python.org/3.6/library/turtle.html)
 
-### Aufgaben
-
-1. Öffne ein neues Python-Shell-Fenster und verwandle alle folgenden Anweisungen in Pythonbefehle und führe sie aus.
-2. Importiere das Python-Modul turtle.
-3. Wähle mit der Funktion shape die Form einer Schildkröte.
-4. Ändere die Farbe der Schildkröte in grün.
-5. Zeichne mit der Schildkröte ein Quadrat.
-6. Zeichne mit der Schildkröte ein Dreieck.
-
 ### Quiz
 
 <quiz name="">

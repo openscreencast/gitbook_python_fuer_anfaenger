@@ -6,14 +6,6 @@
 
 * [Python - Turtle](https://docs.python.org/3.6/library/turtle.html)
 
-### Aufgaben
-
-1. Erstelle ein Pythonprogramm und importiere das Modul turtle. Verwandle alle folgenden Anweisungen in Pythonbefehle und schreibe sie in dein Pythonprogramm.
-2. Wähle mit der Funktion shape die Form einer Schildkröte.
-3. Gehe mit der Schildkröte 50 Schritte vorwärts.
-4. Ändere den Winkel um 90° nach links.
-5. Gehe 25 Schritte rückwärts.
-
 ### Quiz
 
 <quiz name="">
