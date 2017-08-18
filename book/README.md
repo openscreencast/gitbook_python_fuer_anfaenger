@@ -18,3 +18,7 @@ von [OpenTechSchool](http://opentechschool.org/) and contributors (bei [github](
 Bilderquellen:
 
 * http://thenounproject.com/search/?q=snake&i=24037 by [Ola Möller](http://thenounproject.com/olamoller) Lizenz: http://creativecommons.org/licenses/by/3.0/us/ 
+
+# Git
+
+https://github.com/openscreencast/gitbook_python_fuer_anfaenger
