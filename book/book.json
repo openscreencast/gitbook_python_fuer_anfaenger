@@ -1,5 +1,5 @@
 {
-  "plugins": ["jazer","quiz","fbqx"],
+  "plugins": ["jazer","quiz","fbqx","sectionx"],
   "pluginsConfig": {
       "jazer": {
           "editorAutoHeight": "solution"
@@ -19,6 +19,9 @@
                 "showCorrect"       : true, 
                 "showExplanation"   : true 
             }
-    }
+    },
+	"sectionx": {
+	      "tag": "b"
+	    }
   }
 }
