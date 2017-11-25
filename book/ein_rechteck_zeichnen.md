@@ -8,7 +8,7 @@
 
 <!--endsec-->
 
-<!--sec data-title="editor" data-id="editor" data-show=true data-collapse=true ces-->
+<!--sec data-title="Python-Programm" data-id="editor" data-show=true data-collapse=true ces-->
 
 {%ace edit=true, lang='python' %}
 import turtle
