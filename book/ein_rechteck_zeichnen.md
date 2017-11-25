@@ -8,6 +8,31 @@
 
 <!--endsec-->
 
+<!--sec data-title="editor" data-id="editor" data-show=true data-collapse=true ces-->
+
+{%ace edit=true, lang='python' %}
+import turtle
+
+turtle.forward(25)
+turtle.left(30)
+turtle.reset()
+turtle.shape("turtle")
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.forward(100)
+turtle.left(90)
+turtle.color('red')
+turtle.forward(100)
+turtle.undo()
+turtle.exitonclick()
+{%endace%}
+
+<!--endsec-->
+
 <!--sec data-title="Quiz" data-id="quiz" data-show=true data-collapse=true ces-->
 
 <quiz name="">

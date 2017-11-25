@@ -8,6 +8,18 @@
 
 <!--endsec-->
 
+<!--sec data-title="editor" data-id="editor" data-show=true data-collapse=true ces-->
+
+{%ace edit=true, lang='python' %}
+import turtle
+
+turtle.shape("turtle")
+turtle.forward(25)
+turtle.exitonclick()
+{%endace%}
+
+<!--endsec-->
+
 <!--sec data-title="Quiz" data-id="quiz" data-show=true data-collapse=true ces-->
 
 <quiz name="">

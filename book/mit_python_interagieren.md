@@ -10,6 +10,15 @@
 
 <!--endsec-->
 
+<!--sec data-title="editor" data-id="editor" data-show=true data-collapse=true ces-->
+
+{%ace edit=true, lang='python' %}
+print("Hello world")
+print((1 + 4) * 2)
+{%endace%}
+
+<!--endsec-->
+
 <!--sec data-title="Quiz" data-id="quiz" data-show=true data-collapse=true ces-->
 
 {%fbq%}Tippe $$python## in dein Terminal ein und drücke ENTER um die interaktive Python Konsole zu starten.{%endfbq%}

@@ -8,6 +8,40 @@
 
 <!--endsec-->
 
+<!--sec data-title="editor" data-id="editor" data-show=true data-collapse=true ces-->
+
+{%ace edit=true, lang='python' %}
+import turtle
+import math
+
+# x sei 5, x*2 = 10
+
+x = 5
+y = "Hi turtle !"
+print(x)
+print(y)
+
+x = 10
+timmy = turtle
+turtle.shape("turtle")
+timmy.forward(x)
+timmy.left(90)
+timmy.forward(x)
+timmy.left(90)
+timmy.forward(x)
+timmy.left(90)
+timmy.forward(x)
+timmy.left(90)
+turtle.exitonclick()
+
+x = math.sqrt(9)
+y = 10**2
+print(x)
+print(y)
+{%endace%}
+
+<!--endsec-->
+
 <!--sec data-title="Quiz" data-id="quiz" data-show=true data-collapse=true ces-->
 
 <quiz name="">

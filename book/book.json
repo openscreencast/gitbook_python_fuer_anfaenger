@@ -1,5 +1,5 @@
 {
-  "plugins": ["jazer","quiz","fbqx","sectionx"],
+  "plugins": ["jazer","quiz","fbqx","sectionx","ace"],
   "pluginsConfig": {
       "jazer": {
           "editorAutoHeight": "solution"

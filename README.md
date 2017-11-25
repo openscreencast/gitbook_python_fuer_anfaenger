@@ -29,6 +29,7 @@ gitbook build
 * [plugin-jazer](http://sokartema.github.io/gitbook-plugin-jazer/) by [sokartema](https://github.com/sokartema), Lizenz: [Apache License](https://github.com/sokartema/gitbook-plugin-jazer/blob/master/LICENSE)
 * [plugin-lunr](https://github.com/GitbookIO/plugin-lunr) by [GitBook](https://github.com/GitbookIO), Lizenz: [Apache License](https://github.com/GitbookIO/plugin-lunr/blob/master/LICENSE)
 * plugin-livereload
+* [plugin-ace](https://github.com/ymcatar/gitbook-plugin-ace) by [ymcatar](https://github.com/ymcatar), Lizenz: [Apache License](https://github.com/ymcatar/gitbook-plugin-ace/blob/master/LICENSE)
 * [plugin-quiz](https://github.com/chudaol/gitbook-plugin-quiz) by [chudaol](https://github.com/chudaol)
 * [plugin-search](https://github.com/GitbookIO/plugin-search) by [GitBook](https://github.com/GitbookIO), Lizenz: [Apache License](https://github.com/GitbookIO/plugin-search/blob/master/LICENSE)
 * [plugin-sharing](https://github.com/GitbookIO/plugin-sharing) by [GitBook](https://github.com/GitbookIO), Lizenz: [Apache License](https://github.com/GitbookIO/plugin-sharing/blob/master/LICENSE)
