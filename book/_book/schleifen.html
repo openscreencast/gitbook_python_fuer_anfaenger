@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Python-Programme ausführen · GitBook</title>
+        <title>Schleifen · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -97,10 +97,10 @@
     <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="einfaches_zeichnen_mit_turtle.html" />
+    <link rel="next" href="copyright.html" />
     
     
-    <link rel="prev" href="mit_python_interagieren.html" />
+    <link rel="prev" href="variablen.html" />
     
 
     </head>
@@ -181,7 +181,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.5" data-path="python-programme_ausfuhren.html">
+        <li class="chapter " data-level="1.5" data-path="python-programme_ausfuhren.html">
             
                 <a href="python-programme_ausfuhren.html">
             
@@ -233,7 +233,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.9" data-path="schleifen.html">
+        <li class="chapter active" data-level="1.9" data-path="schleifen.html">
             
                 <a href="schleifen.html">
             
@@ -289,7 +289,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >Python-Programme ausführen</a>
+        <a href="." >Schleifen</a>
     </h1>
 </div>
 
@@ -304,18 +304,59 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="python-programme-ausf&#xFC;hren">Python-Programme ausf&#xFC;hren</h1>
-<iframe src="https://player.vimeo.com/video/138085115?title=0&amp;byline=0&amp;portrait=0" width="100%" height="430" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe>
+                                <h1 id="schleifen">Schleifen</h1>
+<iframe src="https://player.vimeo.com/video/249418130?title=0&amp;byline=0&amp;portrait=0" width="100%" height="430" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen></iframe>
 
 <sec data-title="Links" data-id="links" data-show="true"><div class="panel panel-default"><div class="panel-heading"><b>Links<a class="pull-right section atTitle btn btn-default" target="links"><span class="fa fa-angle-up"></span></a></b></div><div class="panel-collapse in" id="links"><div class="panel-body">
 <ul>
-<li><a href="https://learnxinyminutes.com/docs/de-de/python-de/" target="_blank">Python</a></li>
-<li><a href="https://de.wikibooks.org/wiki/Python_unter_Linux:_Erste_Schritte" target="_blank">Python - Erste Schritte</a></li>
-<li><a href="https://py-tutorial-de.readthedocs.io/de/python-3.3/interpreter.html" target="_blank">Python-Interpreter</a></li>
+<li><a href="https://py-tutorial-de.readthedocs.io/de/python-3.3/introduction.html" target="_blank">Eine informelle Einf&#xFC;hrung in Python</a></li>
 </ul>
 </div></div></div></sec>
+<sec data-title="Python-Programm" data-id="editor" data-show="true" data-collapse="true"><div class="panel panel-default"><div class="panel-heading"><b>Python-Programm<a class="pull-right section atTitle btn btn-default" target="editor"><span class="fa fa-angle-up"></span></a></b></div><div class="panel-collapse in" id="editor"><div class="panel-body">
+<div class="ace"><div class="aceCode" data-config="{&quot;edit&quot;:true,&quot;lang&quot;:&quot;python&quot;,&quot;check&quot;:false,&quot;theme&quot;:false}">import turtle
+
+for name in &quot;Paula&quot;, &quot;David&quot;, &quot;Rafael&quot;:
+    print(&quot;Hallo &quot; + name)
+
+for i in range(10):
+    print(i)
+
+total = 0
+for i in 5, 7, 11, 13:
+    print(i)
+    total = total + i
+print(total)
+
+for _ in range(5):
+    print(&quot;Hallo !&quot;)
+
+turtle.shape(&quot;turtle&quot;)
+for i in range(10):
+    turtle.forward(15)
+    turtle.penup()
+    turtle.forward(5)
+    turtle.pendown()
+turtle.exitonclick()<br></div></div>
+
+</div></div></div></sec>
 <sec data-title="Quiz" data-id="quiz" data-show="true" data-collapse="true"><div class="panel panel-default"><div class="panel-heading"><b>Quiz<a class="pull-right section atTitle btn btn-default" target="quiz"><span class="fa fa-angle-up"></span></a></b></div><div class="panel-collapse in" id="quiz"><div class="panel-body">
-<p><div class="fbqx"><div class="FBQbox gitQuestion" data-id="e6409d8621e5e957d94b6dac4e437adaa47420ae" data-answer="[[&quot;python&quot;]]"><p>Mit <div class="ans"><input type="text" class="form-control input-sm"></div> hallo.py in der Kommandozeile kann man das Pythonprogramm hallo.py starten.</p><br><br><button class="btn btn-default btn-sm FBQsubmit">Submit</button><br><p class="alert alert-default FBQmessage">Correct.</p></div></div></p>
+<quiz name="">
+    <question>
+        <p>Mit welcher Python-Anweisung beginnt eine Schleife ?</p>
+        <answer correct="">for</answer>
+        <answer>return</answer>
+        <answer>if</answer>
+        <answer>LET</answer>
+    </question>
+    <question>
+        <p>Mit welcher turtle-Funktion kann die Schildkr&#xF6;te sich bewegen ohne zu zeichnen ?</p>
+        <answer>turtle.pendown()</answer>
+        <answer correct="">turtle.penup()</answer>
+        <answer>turtle.shape()</answer>
+        <answer>turtle.forward()</answer>
+    </question>
+</quiz>
+
 </div></div></div></sec>
 
                                 
@@ -344,12 +385,12 @@
 
             
                 
-                <a href="mit_python_interagieren.html" class="navigation navigation-prev " aria-label="Previous page: Mit Python interagieren">
+                <a href="variablen.html" class="navigation navigation-prev " aria-label="Previous page: Variablen">
                     <i class="fa fa-angle-left"></i>
                 </a>
                 
                 
-                <a href="einfaches_zeichnen_mit_turtle.html" class="navigation navigation-next " aria-label="Next page: Einfaches Zeichnen mit turtle">
+                <a href="copyright.html" class="navigation navigation-next " aria-label="Next page: Lizenz">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -360,7 +401,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"Python-Programme ausführen","level":"1.5","depth":1,"next":{"title":"Einfaches Zeichnen mit turtle","level":"1.6","depth":1,"path":"einfaches_zeichnen_mit_turtle.md","ref":"einfaches_zeichnen_mit_turtle.md","articles":[]},"previous":{"title":"Mit Python interagieren","level":"1.4","depth":1,"path":"mit_python_interagieren.md","ref":"mit_python_interagieren.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["jazer","quiz","fbqx","sectionx","ace"],"pluginsConfig":{"ace":{},"fbqx":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"jazer":{"editorAutoHeight":"solution"},"fontsettings":{"theme":"white","family":"sans","size":2},"sectionx":{"tag":"b"},"highlight":{},"quiz":{"labels":{"check":"Antwort kontrollieren","showExplanation":"Hinweis","showCorrect":"korrekte Antwort","explanationHeader":"Hinweis"},"text":{"noChosen":"Choose at least one answer","incomplete":"Some correct answers are missing"},"buttons":{"showCorrect":true,"showExplanation":true}},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"python-programme_ausfuhren.md","mtime":"2017-09-25T20:48:35.755Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-01-03T19:04:48.541Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"Schleifen","level":"1.9","depth":1,"next":{"title":"Lizenz","level":"1.10","depth":1,"path":"copyright.md","ref":"copyright.md","articles":[]},"previous":{"title":"Variablen","level":"1.8","depth":1,"path":"variablen.md","ref":"variablen.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["jazer","quiz","fbqx","sectionx","ace"],"pluginsConfig":{"ace":{},"fbqx":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"jazer":{"editorAutoHeight":"solution"},"fontsettings":{"theme":"white","family":"sans","size":2},"sectionx":{"tag":"b"},"highlight":{},"quiz":{"labels":{"check":"Antwort kontrollieren","showExplanation":"Hinweis","showCorrect":"korrekte Antwort","explanationHeader":"Hinweis"},"text":{"noChosen":"Choose at least one answer","incomplete":"Some correct answers are missing"},"buttons":{"showCorrect":true,"showExplanation":true}},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"schleifen.md","mtime":"2018-01-03T19:03:31.032Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2018-01-03T19:04:48.541Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

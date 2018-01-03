@@ -8,5 +8,6 @@
 * [Einfaches Zeichnen mit turtle](einfaches_zeichnen_mit_turtle.md)
 * [Ein Rechteck zeichnen](ein_rechteck_zeichnen.md)
 * [Variablen](variablen.md)
+* [Schleifen](schleifen.md)
 * [Lizenz](copyright.md)
 
